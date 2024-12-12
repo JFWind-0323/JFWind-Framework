@@ -12,6 +12,7 @@ https://github.com/JFWind-0323/JFW-Framework-Proj.git<br>
 
 ## Editor
 自制的Editor窗口使用的Odin Inspector，我是原价购入的，不知道盗版或者其他版本是否可以兼容
+可以配置全局的SO文件（SO类需要自己写）
 
 ## Particular
 ACT - 动作游戏指令框架，挺复杂的，慎用
