@@ -1,6 +1,6 @@
 # JFWind Framework使用指南
 请务必导入Essential中的包，大部分类都继承自其中
-工程文件（包含测试场景）
+工程文件（包含测试场景）<br>
 https://github.com/JFWind-0323/JFW-Framework-Proj.git
 ## Common
 通用框架，包含了音乐音效，UI，状态机，数据存储，EDA（事件驱动架构），场景过渡
