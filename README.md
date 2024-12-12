@@ -1,7 +1,8 @@
 # JFWind Framework 使用指南
 请务必导入Essential中的包，大部分类都继承自其中<br>
 工程文件（包含测试场景）<br>
-https://github.com/JFWind-0323/JFW-Framework-Proj.git
+https://github.com/JFWind-0323/JFW-Framework-Proj.git<br>
+工程文件用到了DOTween Pro和 Odin Inspector，请按需自行获取
 ## All
 通用框架整合包（没有包含Editor）
 ## Common
