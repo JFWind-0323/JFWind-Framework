@@ -14,7 +14,7 @@ https://github.com/JFWind-0323/JFW-Framework-Proj.git<br>
 自制的Editor窗口使用的Odin Inspector，我是原价购入的，不知道盗版或者其他版本是否可以兼容
 
 ## Particular
-ACT-动作游戏指令框架，挺复杂的，慎用
+ACT - 动作游戏指令框架，挺复杂的，慎用
 
 Grid System - 比较好用的2D格子系统框架
 
